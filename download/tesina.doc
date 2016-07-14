@@ -26,7 +26,7 @@
 
     
       
-        <base href="http://lsaut.dsea.unipi.it/" />
+        <base href="https://mirkoferrati.github.io/sito_lsaut/" />
       
     
 
@@ -70,7 +70,7 @@
                 
                     <link rel="alternate stylesheet"
                           type="text/css" media="screen"
-                          href="http://lsaut.dsea.unipi.it/portal_css/Plone%20Default/ploneStyles0525.css"
+                          href="https://mirkoferrati.github.io/sito_lsaut/portal_css/Plone%20Default/ploneStyles0525.css"
                           title="Small Text" />
                     
                     
@@ -80,7 +80,7 @@
                 
                     <link rel="alternate stylesheet"
                           type="text/css" media="screen"
-                          href="http://lsaut.dsea.unipi.it/portal_css/Plone%20Default/ploneStyles9420.css"
+                          href="https://mirkoferrati.github.io/sito_lsaut/portal_css/Plone%20Default/ploneStyles9420.css"
                           title="Large Text" />
                     
                     
@@ -107,18 +107,18 @@
     <![endif]-->
 
     <link rel="shortcut icon" type="image/x-icon"
-          href="http://lsaut.dsea.unipi.it/favicon.ico" />
+          href="https://mirkoferrati.github.io/sito_lsaut/favicon.ico" />
 
     <link rel="home" href="http://lsaut.dsea.unipi.it"
           title="Pagina principale" />
     <link rel="search"
-          href="http://lsaut.dsea.unipi.it/search_form"
+          href="https://mirkoferrati.github.io/sito_lsaut/search_form"
           title="Cerca in questo sito" />
     <link rel="author"
-          href="http://lsaut.dsea.unipi.it/author/"
+          href="https://mirkoferrati.github.io/sito_lsaut/author/"
           title="Informazioni sull'autore" />
     <link rel="contents"
-          href="http://lsaut.dsea.unipi.it/sitemap"
+          href="https://mirkoferrati.github.io/sito_lsaut/sitemap"
           title="Mappa del sito" />
 
     
@@ -162,22 +162,22 @@
         <div id="portal-header">
           <p class="hiddenStructure">
             <a accesskey="2"
-               href="http://lsaut.dsea.unipi.it/virtual_hosting///download/tesina.doc#documentContent">Vai ai contenuti.</a> |
+               href="https://mirkoferrati.github.io/sito_lsaut/virtual_hosting///download/tesina.doc#documentContent">Vai ai contenuti.</a> |
 
             <a accesskey="6"
-               href="http://lsaut.dsea.unipi.it/virtual_hosting///download/tesina.doc#portlet-navigation-tree">Spostati sulla navigazione</a>
+               href="https://mirkoferrati.github.io/sito_lsaut/virtual_hosting///download/tesina.doc#portlet-navigation-tree">Spostati sulla navigazione</a>
           </p>
 
 <ul id="portal-siteactions">
 
     <li id="siteaction-sitemap"><a
-    href="http://lsaut.dsea.unipi.it/sitemap" accesskey="3"
+    href="https://mirkoferrati.github.io/sito_lsaut/sitemap" accesskey="3"
     title="Mappa del sito">Mappa del sito</a></li>
     <li id="siteaction-accessibility"><a
-    href="http://lsaut.dsea.unipi.it/accessibility-info"
+    href="https://mirkoferrati.github.io/sito_lsaut/accessibility-info"
     accesskey="0" title="Accessibilità">Accessibilità</a></li>
     <li id="siteaction-contact"><a
-    href="http://lsaut.dsea.unipi.it/contact-info"
+    href="https://mirkoferrati.github.io/sito_lsaut/contact-info"
     accesskey="9" title="Contatti">Contatti</a></li>
       <li><a href="login_form"> LOGIN </a></li>
 
@@ -248,7 +248,7 @@
 
             <p>Ricontrolla l'indirizzo web oppure usa la funzione "Cerca" in questa stessa pagina per trovare ciò che stai cercando.</p>
 
-            <p>Se sei sicuro di usare l'indirizzo web corretto e l'errore persiste, contatta l'<a href="http://lsaut.dsea.unipi.it/contact-info">amministratore del sito</a>.</p>
+            <p>Se sei sicuro di usare l'indirizzo web corretto e l'errore persiste, contatta l'<a href="https://mirkoferrati.github.io/sito_lsaut/contact-info">amministratore del sito</a>.</p>
 
             <p>Grazie.</p>
 
