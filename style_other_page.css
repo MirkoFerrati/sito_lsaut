@@ -1,0 +1,509 @@
+/* CSS Automazione */
+
+body {
+color: #564b47; 
+font-family: Verdana, Arial, SunSans-Regular, Sans-Serif; 
+font-size: 10px; 
+background-image: url(../images/sfondo.gif);
+text-align: center; 
+margin-top: 3%;
+} 
+
+#box {
+width: 800px;
+margin: 0px auto;
+padding: 0px;
+text-align: left;
+}
+
+#head {
+width: 800px;
+height: 100px;
+}
+
+p {
+margin: 0px 0px 10px 0px; 
+} 
+
+a {
+color: #6666CC; 
+text-decoration: none;  
+} 
+
+a:hover {
+text-decoration: underline;
+}
+
+#sub_head p{
+width: 800px;
+margin: 5px 0px 0px 0px;
+padding: 4px 0 5px 0;
+background-image: url(../images/sfondoalto.gif); 
+color: #ffffff; 
+text-align: center;
+
+}
+
+#left {
+width: 175px;
+height: 673px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_info {
+width: 175px;
+height: 693px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_registri {
+width: 175px;
+height: 583px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_didattica {
+width: 175px;
+height: 560px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_convenz {
+width: 175px;
+height: 829px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_varie {
+width: 175px;
+height: 567px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_specializ {
+width: 175px;
+height: 567px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_laureati {
+width: 175px;
+height: 567px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_prog {
+width: 175px;
+height: 1185px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_tesi {
+width: 175px;
+height: 1320px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#left_logo {
+width: 175px;
+height: 567px;
+background-image: url(../images/sfondosx_other.gif);
+background-repeat: repeat;
+float: left;
+}
+
+#middle {
+width: 595px;
+height: 660px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_info {
+width: 595px;
+height: 680px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_convenz {
+width: 595px;
+height: 816px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-image: url(../images/conv_sfondo.gif);
+background-position: bottom;
+background-position: top;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_registri {
+width: 595px;
+height: 570px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_didattica {
+width: 595px;
+height: 547px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_varie {
+width: 595px;
+height: 547px;
+padding: 20px 15px 0 15px;
+background-color: #FFFFFF;
+background-image: url(../images/sfondo_middle_sfumato.gif);
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_specializ {
+width: 595px;
+height: 547px;
+padding: 20px 15px 0 15px;
+background-color: #FFFFFF;
+background-image: url(../images/sfondomd_specializ.gif);
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_laureati {
+width: 595px;
+height: 547px;
+padding: 20px 15px 0 15px;
+background-color: #FFFFFF;
+background-image: url(../images/sfondo_middle_sfumato.gif);
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_prog {
+width: 595px;
+height: 1172px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_news {
+width: 595px;
+height: 570px;
+padding: 13px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_tesi {
+width: 595px;
+height: 1300px;
+padding: 20px 15px 0 15px;
+background-color: #FFFFFF;
+background-position: bottom;
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#middle_logo {
+width: 595px;
+height: 547px;
+padding: 20px 15px 0 15px;
+background-color: #FFFFFF;
+background-image: url(../images/sfondomd_logo.gif);
+background-repeat: no-repeat;
+float: left;
+font-size: 12px;
+text-align: justify;
+}
+
+#foot {
+width: 800px;
+height: 37px;
+padding-bottom: 3%;
+background-image: url(../images/sfondo_foot_other.gif);
+background-repeat: no-repeat;
+float: left;
+}
+
+#loghi_bottom_sx{
+width: 100px;
+height: 10px;
+margin: 15px 0 0 45px;
+}
+
+a.menulink {
+display: block; 
+width: 140px; 
+height: 16px; 
+text-align: left; 
+padding-left: 9px; 
+text-decoration: none; 
+font-weight: bold; 
+font-size: 11px; 
+color: #f0f0f0; 
+border: medium none inherit; 
+background-color: #9999cc; 
+} 
+
+a.menulink:hover {
+text-decoration: none;
+background-color: #614590; 
+color: #bdd3fb; 
+}
+
+#table_position{
+padding-left: 4px;
+padding-top: 10px;
+font-size: 10px;
+}
+
+
+#table_position_convenz{
+margin-left: 75px;
+padding-top: 10px;
+}
+
+#table_position_downloads{
+margin-left: 60px;
+padding-top: 10px;
+}
+
+#wallpaper_position_downloads{
+margin-left: 30px;
+padding-top: 30px;
+}
+
+#table_position_convenz_referenti{
+margin-left: 135px;
+padding-top: 90px;
+font-size: 10px;
+}
+
+#position_descriz_logo{
+margin-left: 40px;
+padding-top: 80px;
+}
+
+.datatable {
+border: 1px solid #D6DDE6;
+border-collapse: collapse;
+width: 99%;
+}
+
+.datatable td {
+border: 1px solid #D6DDE6;
+padding: 4px;
+}
+
+.datatable th {
+border: 1px solid #828282;
+background-color: #BCBCBC;
+font-weight: bold;
+text-align: left;
+padding-left: 4px;
+}
+
+.datatable caption {
+font-size: 10px;
+font-weight: bold;
+background-color: #B0C4DE;
+color: #333366;
+padding-top: 3px;
+padding-bottom: 2px;
+margin-left: -1px;
+}
+
+.datatable tr.altrow {
+background-color: #DFE7F2;
+color: #000000;
+}
+
+.datatable_referenti {
+border: 1px solid #D6DDE6;
+border-collapse: collapse;
+width: 75%;
+}
+
+.datatable_referenti td {
+border: 1px solid #D6DDE6;
+padding: 4px;
+text-align: center;
+}
+
+.datatable_referenti th {
+border: 1px solid #828282;
+background-color: #BCBCBC;
+font-weight: bold;
+text-align: center;
+padding-left: 4px;
+}
+
+.datatable_referenti caption {
+font-size: 10px;
+font-weight: bold;
+text-align: center;
+background-color: #B0C4DE;
+color: #333366;
+padding-top: 3px;
+padding-bottom: 2px;
+margin-left: -1px;
+}
+
+.datatable_referenti tr.altrow {
+background-color: #DFE7F2;
+color: #000000;
+}
+
+#testo_doc_inf_pos {
+padding-top: 15px;
+}
+
+.datatable_prog {
+border: 1px solid #D6DDE6;
+border-collapse: collapse;
+width: 99%;
+}
+
+.datatable_prog td {
+border: 1px solid #D6DDE6;
+padding: 4px;
+text-align: center;
+}
+
+.datatable_prog th {
+border: 1px solid #828282;
+background-color: #BCBCBC;
+font-weight: bold;
+text-align: center;
+padding-left: 4px;
+}
+
+.datatable_prog caption {
+font-size: 10px;
+font-weight: bold;
+text-align: center;
+background-color: #B0C4DE;
+color: #333366;
+padding-top: 3px;
+padding-bottom: 2px;
+margin-left: -1px;
+}
+
+.datatable_prog tr.altrow {
+background-color: #DFE7F2;
+color: #000000;
+}
+
+.category_news {
+font-weight: bold;
+font-size:16px;
+width: 594px;
+color: #6666CC;
+border-bottom: #6666CC 2px solid;
+font-family: Arial, Helvetica, sans-serif
+}
+
+.tria {
+font-weight: bold;
+font-size: 10px; 
+color: #6666CC;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.data_indice {
+font-weight: normal; 
+font-size: 10px; 
+color: #333333; 
+font-family: Verdana, Arial, Helvetica, sans-serif;
+text-align: right;
+text-decoration: none;
+}
+
+.indice_data {
+font-weight: bold; 
+font-size: 10px; 
+color: #6666CC; 
+font-family: Verdana, Arial, Helvetica, sans-serif;
+text-align: right;
+text-decoration: none;
+}
+
+a.indice_titolo {
+padding: 2px 2px 2px 2px;
+font-weight: bold; 
+font-size: 10px; 
+color: #660099; 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+text-align: left; 
+text-decoration: none;
+}
+
+a.indice_titolo:hover {
+text-decoration: underline
+}
+
